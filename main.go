@@ -1,1 +1,5 @@
-print("hello world")
+package main
+
+func main() {
+	print("hello world")
+}
